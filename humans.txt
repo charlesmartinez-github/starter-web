@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks to Jayson Taylor
+	This course is really great at starting to learn Git!
 
 # TECHNOLOGY COLOPHON
 
